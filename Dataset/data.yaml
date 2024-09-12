@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['Black_Large', 'Black_Medium', 'Black_Small', 'Blue_Large', 'Blue_Medium', 'Blue_Small', 'Green_Large', 'Green_Medium', 'Green_Small', 'Orange_Large', 'Orange_Medium', 'Orange_Small', 'White_Large', 'White_Medium', 'White_Small', 'Yellow_Large', 'Yellow_Medium', 'Yellow_Small']
+
+roboflow:
+  workspace: first-pga3c
+  project: new-dataset-rrkar
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/first-pga3c/new-dataset-rrkar/dataset/1
