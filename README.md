@@ -32,9 +32,3 @@ https://github.com/user-attachments/assets/e963629c-580e-425f-b7c3-880549bb2423
 
 
 
-# TEAM MEMBERS
-- Midhun [@MidhunVS](https://github.com/MidhunVS21)
-- Thavamani [@THAVAMAN](https://github.com/THAVAMANI-T)
-- Junaitha Fathima [@JunaithaFathima](https://github.com/Junai-13)
-- Deepthi Prasanna [@DeepthiPrasanna](https://github.com/DeepthiPrasannaIntern)
-
